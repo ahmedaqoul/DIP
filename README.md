@@ -1,4 +1,4 @@
-# Ahmed AKUL, Ahmed HAMIDI ve ELMUNZİR ELSEYER *Görüntülerden Renk Paleti Oluşturma* SAYISAL GÖRÜNTÜ IŞLEME projesi 
+# Ahmed AKUL ve Ahmed HAMIDI *Görüntülerden Renk Paleti Oluşturma* SAYISAL GÖRÜNTÜ IŞLEME projesi 
 # DIP
 from PIL import Image
 import colorsys
